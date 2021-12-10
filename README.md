@@ -2,7 +2,7 @@
 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Mern Stack Developer!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
