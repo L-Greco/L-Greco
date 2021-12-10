@@ -2,13 +2,12 @@
 
 
 
-## I'm a Mern Stack Developer!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+## I'm a Mern Stack Developer that graduated from Strive School!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I am about to launch my first personal project : [Grab the snippet!][website]!
+<!-- - 👯 I’m looking to collaborate with other content creators -->
+- 🥅 2022 Goals: Find my first job as a web developer and dive deeper to react
+- ⚡ Fun fact: I am also an amateur music producer 
 
 ### Connect with me:
 
@@ -32,19 +31,8 @@
 <br />
 <br />
  <img align="left" alt="L-Greco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=L-Greco&show_icons=true&hide_border=true" />
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="L-Greco's GitHub Stats" src="https://github-readme-stats.L-Greco.vercel.app/api?username=L-Greco&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://grabthesnippet.com
 [linkedin]: https://www.linkedin.com/in/konstandinos-makaronas-119064129/
