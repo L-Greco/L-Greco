@@ -33,5 +33,5 @@
 
 
 
-[website]: https://grabthesnippet.com
+[website]: https://www.grabthesnippet.com
 [linkedin]: https://www.linkedin.com/in/konstandinos-makaronas-119064129/
