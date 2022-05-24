@@ -4,7 +4,7 @@
 
 ## I'm a Mern Stack Developer that graduated from Strive School!
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I am about to launch my first personal project : [Grab the snippet!][website]!
+- 🔭 Check out my first personal project : [Grab the snippet!][website]!
 - 🥅 2022 Goals: Find my first job as a web developer and dive deeper to react
 - ⚡ Fun fact: I am also an amateur music producer 
 
