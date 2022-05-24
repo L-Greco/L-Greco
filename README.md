@@ -2,7 +2,7 @@
 
 
 
-## I'm a Mern Stack Developer that graduated from Strive School!
+## I'm a Mern Stack Developer that graduated from EPICODE!
 - 🌱 I’m currently learning everything 🤣
 - 🔭 Check out my first personal project : [Grab the snippet!][website]!
 - 🥅 2022 Goals: Find my first job as a web developer and dive deeper to react
