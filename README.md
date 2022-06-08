@@ -4,7 +4,7 @@
 
 ## I'm a Mern Stack Developer that graduated from EPICODE!
 - 🌱 I’m currently learning everything 🤣
-- 💪 Just finished my Portofolio : [Kostas-Port][portofolio]
+- 💪 Just finished my Portfolio : [Kostas-Port][portfolio]
 - 🔭 Check out my first personal project : [Grab the snippet!][website]!
 - 🥅 2022 Goals: Find my first job as a web developer and dive deeper to react
 - ⚡ Fun fact: I am also an amateur music producer 
@@ -34,6 +34,6 @@
 
 
 
-[portofolio]: https://kostas-port.vercel.app
+[portfolio]: https://kostas-port.vercel.app
 [website]: https://www.grabthesnippet.com
 [linkedin]: https://www.linkedin.com/in/konstandinos-makaronas-119064129/
