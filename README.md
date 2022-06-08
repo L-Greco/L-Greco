@@ -1,4 +1,4 @@
-### Hi there, I'm Kostas - aka [L-Greco][portofolio] 👋
+### Hi there, I'm Kostas - aka [L-Greco][portfolio] 👋
 
 
 
